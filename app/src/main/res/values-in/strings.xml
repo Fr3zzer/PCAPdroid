@@ -214,7 +214,7 @@
     <string name="warn_no_app_data">Tidak ada data aplikasi yang dipertukarkan</string>
     <string name="hexdump">Timbunan kode heksadesimal</string>
     <string name="display_as_text">Tampilkan sebagai teks</string>
-    <string name="display_as_hexdump">Tampilkan sebagai hexdump</string>
+    <string name="display_as_rawdump">Tampilkan sebagai rawdump</string>
     <string name="geolocation">Geolokasi</string>
     <string name="geolocation_summary">Tampilkan info negara dan ASN dengan melakukan pencarian offline</string>
     <string name="download_failed">Gagal mengunduh</string>

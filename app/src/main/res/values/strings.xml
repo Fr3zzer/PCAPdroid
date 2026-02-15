@@ -344,7 +344,7 @@
     <string name="text">Text</string>
     <string name="hexdump">Hexdump</string>
     <string name="display_as_text">Display as text</string>
-    <string name="display_as_hexdump">Display as hexdump</string>
+    <string name="display_as_rawdump">Display as rawdump</string>
     <string name="geolocation">Geolocation</string>
     <string name="geolocation_summary">Show country and ASN info by performing offline lookups</string>
     <string name="downloading">Downloading…</string>

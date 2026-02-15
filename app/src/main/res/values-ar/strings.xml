@@ -539,7 +539,7 @@
     <string name="content_type_filter">Content-Type: %1$s</string>
     <string name="text">نص</string>
     <string name="display_as_text">اعرض كنص</string>
-    <string name="display_as_hexdump">اعرض ك hexdump</string>
+    <string name="display_as_rawdump">اعرض ك rawdump</string>
     <string name="exporting">يصدِّر…</string>
     <string name="export_in_progress">جارِ التصدير، يُرجى الانتظار</string>
     <string name="show_connection">أظهر الاتصال</string>

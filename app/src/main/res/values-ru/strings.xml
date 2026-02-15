@@ -528,7 +528,7 @@
     <string name="method_filter">Метод: %1$s</string>
     <string name="text">Текст</string>
     <string name="display_as_text">Отобразить как текст</string>
-    <string name="display_as_hexdump">Отобразить как hex-дамп</string>
+    <string name="display_as_rawdump">Отобразить как RAW-дамп</string>
     <string name="switch_to_http">Показать HTTP запросы</string>
     <string name="switch_to_connections">Показать соединения</string>
     <string name="no_requests">Нет запросов</string>

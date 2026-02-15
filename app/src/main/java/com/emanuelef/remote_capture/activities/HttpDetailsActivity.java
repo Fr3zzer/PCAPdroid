@@ -231,7 +231,7 @@ public class HttpDetailsActivity extends PayloadExportActivity implements Connec
             payloadFragment.setDisplayMode(mDisplayMode);
 
             if(mDisplayMode)
-                mMenuDisplayAs.setTitle(R.string.display_as_hexdump);
+                mMenuDisplayAs.setTitle(R.string.display_as_rawdump);
             else
                 mMenuDisplayAs.setTitle(R.string.display_as_text);
         } else if(currentFragment instanceof ConnectionPayload wsFragment) {
@@ -241,7 +241,7 @@ public class HttpDetailsActivity extends PayloadExportActivity implements Connec
             wsFragment.setDisplayMode(mDisplayMode);
 
             if(mDisplayMode)
-                mMenuDisplayAs.setTitle(R.string.display_as_hexdump);
+                mMenuDisplayAs.setTitle(R.string.display_as_rawdump);
             else
                 mMenuDisplayAs.setTitle(R.string.display_as_text);
         }

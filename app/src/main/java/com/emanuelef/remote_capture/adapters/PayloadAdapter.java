@@ -196,7 +196,7 @@ public class PayloadAdapter extends RecyclerView.Adapter<PayloadAdapter.PayloadV
             int dump_len = expanded ? mChunk.payload.length : Math.min(mChunk.payload.length, COLLAPSE_CHUNK_SIZE);
 
             if(!as_printable)
-                return Utils.hexdump(mChunk.payload, 0, dump_len);
+                return Arrays.toString(mChunk.payload);
             else
                 return new String(mChunk.payload, 0, dump_len, StandardCharsets.UTF_8);
         }

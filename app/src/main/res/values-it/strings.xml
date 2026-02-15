@@ -542,7 +542,7 @@
     <string name="content_type_filter">Content-Type: %1$s</string>
     <string name="display_as_text">Mostra come testo</string>
     <string name="payload_size_threshold">Soglia dimensione payload</string>
-    <string name="display_as_hexdump">Mostra come hexdump</string>
+    <string name="display_as_rawdump">Mostra come rawdump</string>
     <string name="export_in_progress">Esportazione in corso, attendere</string>
     <string name="exporting">Esportando…</string>
     <string name="show_connection">Mostra la connessione</string>

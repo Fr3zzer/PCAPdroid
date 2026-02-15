@@ -542,7 +542,7 @@
     <string name="content_type_filter">Content-Type: %1$s</string>
     <string name="text">文本</string>
     <string name="display_as_text">以文本形式显示</string>
-    <string name="display_as_hexdump">以 hexdump 形式显示</string>
+    <string name="display_as_rawdump">以 rawdump 形式显示</string>
     <string name="exporting">导出中…</string>
     <string name="export_in_progress">正在导出，请等待</string>
     <string name="show_connection">显示连接</string>

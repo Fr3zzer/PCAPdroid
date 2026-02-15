@@ -63,7 +63,7 @@
     <string name="text">Текст</string>
     <string name="hexdump">Hex дамп</string>
     <string name="display_as_text">Відобразити як текст</string>
-    <string name="display_as_hexdump">Відобразити як hexdump</string>
+    <string name="display_as_rawdump">Відобразити як rawdump</string>
     <string name="geolocation_summary">Показати країну та ASN інформацію, виконавши офлайн пошуки</string>
     <string name="geo_db_not_found">Базу даних не знайдена. Геолокацію вимкнено</string>
     <string name="database">База даних</string>

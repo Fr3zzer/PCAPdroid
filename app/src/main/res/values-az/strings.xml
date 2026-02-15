@@ -286,7 +286,7 @@
     <string name="text">Mətn</string>
     <string name="hexdump">Heksdempinq (hexdump)</string>
     <string name="display_as_text">Mətn kimi göstər</string>
-    <string name="display_as_hexdump">Hexdump kimi göstər</string>
+    <string name="display_as_rawdump">Rawdump kimi göstər</string>
     <string name="geolocation">Bölgə</string>
     <string name="geolocation_summary">Oflayn axtarışlar edərək ölkə və ASN məlumatlarını göstər</string>
     <string name="download_in_progress">Yükləmə davam edir, zəhmət olmasa, gözləyin</string>

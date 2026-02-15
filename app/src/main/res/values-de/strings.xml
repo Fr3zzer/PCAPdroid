@@ -541,7 +541,7 @@
     <string name="content_type_filter">Content-Type: %1$s</string>
     <string name="text">Text</string>
     <string name="display_as_text">Als Text anzeigen</string>
-    <string name="display_as_hexdump">Als Hexdump anzeigen</string>
+    <string name="display_as_rawdump">Als Rawdump anzeigen</string>
     <string name="exporting">Wird exportiert…</string>
     <string name="export_in_progress">Export wird durchgeführt, bitte warten</string>
     <string name="show_connection">Verbindung anzeigen</string>

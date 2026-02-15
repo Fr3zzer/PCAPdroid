@@ -284,7 +284,7 @@
     <string name="text">உரை</string>
     <string name="hexdump">ஃச் டம்ப்</string>
     <string name="display_as_text">உரையாக காட்டு</string>
-    <string name="display_as_hexdump">ஹெக்ஸ்டம்ப்பாகக் காட்டு</string>
+    <string name="display_as_rawdump">ஹெக்ஸ்டம்ப்பாகக் காட்டு</string>
     <string name="geolocation">புவிஇருப்பிடம்</string>
     <string name="geolocation_summary">இணைப்பில்லாத தேடல்களைச் செய்வதன் மூலம் நாடு மற்றும் ஏ.எச்.என் தகவலைக் காட்டு</string>
     <string name="downloading">பதிவிறக்கம்…</string>

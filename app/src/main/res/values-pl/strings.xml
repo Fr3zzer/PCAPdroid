@@ -274,7 +274,7 @@
     <string name="text">Tekst</string>
     <string name="hexdump">Zrzut szesnastkowy</string>
     <string name="display_as_text">Wyświetl jako tekst</string>
-    <string name="display_as_hexdump">Wyświetl jako zrzut szesnastkowy</string>
+    <string name="display_as_rawdump">Wyświetl jako zrzut szesnastkowy</string>
     <string name="geolocation">Geolokalizacja</string>
     <string name="geolocation_summary">Pokaż informacje o kraju i ASN, przeprowadzając wyszukiwanie offline</string>
     <string name="downloading">Pobieranie…</string>

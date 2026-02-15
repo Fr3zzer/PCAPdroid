@@ -543,7 +543,7 @@
     <string name="content_type_filter">Content-Type: %1$s</string>
     <string name="text">Metin</string>
     <string name="display_as_text">Metin olarak görüntüle</string>
-    <string name="display_as_hexdump">Onaltılık döküm olarak görüntüle</string>
+    <string name="display_as_rawdump">Onaltılık döküm olarak görüntüle</string>
     <string name="exporting">Dışa aktarılıyor…</string>
     <string name="export_in_progress">Dışa aktarma devam ediyor, lütfen bekleyin</string>
     <string name="show_connection">Bağlantıyı göster</string>

@@ -19,6 +19,7 @@
 
 package com.emanuelef.remote_capture.fragments;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -226,10 +227,12 @@ public class ConnectionPayload extends Fragment implements PayloadHostActivity.C
             mCurChunks = mConn.getNumPayloadChunks();
         }
 
-        if(mConn.isPayloadTruncated() && (mTruncatedWarning != null))
+        if(mConn.isPayloadTruncated() && (mTruncatedWarning != null)) {
             mTruncatedWarning.setVisibility(View.VISIBLE);
 
-            if (mInsets != null)
+            if (mInsets != null) {
                 applyTruncatedWarningInsets(mInsets);
+            }
+        }
     }
 }

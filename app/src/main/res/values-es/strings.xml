@@ -288,7 +288,7 @@
     <string name="text">Texto</string>
     <string name="hexdump">Hexadécimal</string>
     <string name="display_as_text">Mostrar como texto</string>
-    <string name="display_as_hexdump">Mostrar como volcado hexadecimal</string>
+    <string name="display_as_rawdump">Mostrar como volcado hexadecimal</string>
     <string name="geolocation">Geolocalización</string>
     <string name="downloading">Descargando…</string>
     <string name="built_on">Montada en: %1$s</string>
